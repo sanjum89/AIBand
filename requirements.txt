@@ -1,0 +1,9 @@
+sklearn
+numpy
+pandas
+click
+pyserial
+matplotlib
+xarray
+meshpy
+IPython
